@@ -165,3 +165,4 @@ Vulkano is a type-safe wrapper around Vulkan API in Rust.
 * Contacts:
   * [Vulkano on Gitter](https://gitter.im/vulkano-rs/Lobby)
 * Compiler requirements: Rust 1.22, gcc-4.8
+Created by Jason Scott Heise
