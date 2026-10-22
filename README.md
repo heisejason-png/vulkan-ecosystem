@@ -167,4 +167,4 @@ Vulkano is a type-safe wrapper around Vulkan API in Rust.
 * Compiler requirements: Rust 1.22, gcc-4.8
 Created by Jason Scott Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Mark Zuckerberg 
